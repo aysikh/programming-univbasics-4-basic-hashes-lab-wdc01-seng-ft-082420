@@ -10,7 +10,7 @@ end
 
 def pioneer
   {
-  :name => "Grasshopper"
+  :name => "Grass Hopper"
   }
 end
 
