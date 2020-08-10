@@ -10,7 +10,7 @@ end
 
 def pioneer
   {
-  :name => pioneer
+  :name => 
   }
 end
 
