@@ -2,8 +2,9 @@ def new_hash
   {}
 end
 
-def my_hash = {
-  :fruit => "apples"
+def my_hash = 
+  {
+  "fruit" => "apples"
 }
 end
 
