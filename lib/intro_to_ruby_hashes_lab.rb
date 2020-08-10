@@ -1,5 +1,5 @@
 def new_hash 
-  {}
+  hash = {}
 end
 
 def my_hash 
@@ -10,7 +10,7 @@ end
 
 def pioneer
   {
-  :name => 
+  :name => "Grace Hopper"
   }
 end
 
